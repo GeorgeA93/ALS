@@ -1,0 +1,10 @@
+com.george.als.data
+com.george.als.display
+com.george.als.entities.food
+com.george.als.entities.lifeforms
+com.george.als.entities.nest
+com.george.als.entities.obstacles
+com.george.als.main
+com.george.als.simulation
+com.george.als.utils
+com.george.als.world

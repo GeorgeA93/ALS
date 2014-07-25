@@ -1,0 +1,18 @@
+
+Name: a
+Type: C
+X: 16
+Y: 19
+Energy: 852
+
+Name: Random
+Type: H
+X: 36
+Y: 13
+Energy: 318
+
+Name: Random
+Type: C
+X: 36
+Y: 13
+Energy: 1279
